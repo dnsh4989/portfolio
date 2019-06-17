@@ -57,3 +57,11 @@ header .lg-small {
     left: 0;
     top: 0;
 }
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+}
+header {
+    min-width: 1024px;
+    width: 100%;
+}
